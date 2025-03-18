@@ -1,5 +1,5 @@
 
-## Laís Cipriano | Artes & Presentes
+# Laís Cipriano | Artes & Presentes
 
 # Visão Geral do Projeto
 
