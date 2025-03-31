@@ -1,58 +1,37 @@
-
 # Laís Cipriano | Artes & Presentes
 
-# Visão Geral do Projeto
+## Visão Geral do Projeto
+O site **Laís Cipriano | Artes & Presentes** foi criado como uma plataforma de apresentação para os produtos artesanais da marca. Reflete a personalidade e o cuidado com os detalhes que estão por trás de cada criação. A proposta é promover uma experiência visual única para os clientes, destacando a variedade e a qualidade dos produtos, como pulseiras, buquês feitos à mão, peças em biscuit e cestas. A criação foi realizada com o auxílio da plataforma **Canva**, em um modelo de desenvolvimento **No-Code/Low-Code**.
 
-O site Laís Cipriano | Artes & Presentes foi criado como uma plataforma de apresentação para os produtos artesanais da marca. O site reflete a personalidade e o cuidado com os detalhes que estão por trás de cada criação. A proposta é promover uma experiência visual única para os clientes, destacando a variedade e a qualidade dos produtos, como pulseiras, buquês feitos à mão, peças em biscuit e cestas. A criação foi realizada com o auxílio da plataforma Canva, em um modelo de desenvolvimento sem código (No-Code/Low-Code).
+## Missão
+Nossa missão é transformar materiais simples em obras de arte que encantam e emocionam. Buscamos proporcionar aos nossos clientes produtos exclusivos, feitos à mão com dedicação e carinho, agregando valor sentimental e beleza a cada peça.
 
-# Objetivo do Site
+## Visão
+Ser reconhecida como uma referência no mercado de artesanato personalizado, expandindo a marca e conquistando clientes em todo o Brasil, com um atendimento humanizado e produtos de alta qualidade.
 
-O objetivo principal deste site é proporcionar uma vitrine digital acessível e atraente para os produtos, permitindo que clientes em potencial descubram, se conectem e adquiram as peças de forma intuitiva e segura. Este site também serve como uma ferramenta de marketing e comunicação, com links diretos para redes sociais (Instagram e Facebook) e informações sobre como realizar compras.
+## Valores
+- **Artesanato com Amor**: Cada produto é feito com dedicação e atenção aos detalhes.
+- **Criatividade e Exclusividade**: Criamos peças únicas e personalizadas para cada cliente.
+- **Compromisso com a Qualidade**: Garantimos materiais de alta qualidade para entregar o melhor.
+- **Respeito ao Cliente**: Atendimento humanizado e transparência em todo o processo de compra.
 
-# Tecnologias Utilizadas
+## Metas de Longo Prazo
+1. **Expansão do Negócio**: Criar uma loja virtual própria para facilitar as vendas online.
+2. **Novas Linhas de Produtos**: Ampliar a variedade de produtos oferecidos, explorando novas técnicas e materiais.
+3. **Parcerias Estratégicas**: Estabelecer colaborações com influenciadores e lojas parceiras.
+4. **Crescimento nas Redes Sociais**: Alcançar um maior público e engajamento nas redes sociais.
+5. **Participação em Feiras e Eventos**: Expor os produtos em eventos de artesanato e feiras regionais.
 
-Plataforma: Canva (para criação do site)
+## Planos de Ação
+- **2025**: Investir em marketing digital para aumentar a presença da marca no Instagram e Facebook.
+- **2026**: Criar um e-commerce próprio para otimizar as vendas.
+- **2027**: Ampliar o portfólio com novos tipos de produtos e coleções especiais.
+- **2028**: Expandir o alcance da marca para todo o Brasil, com envio para todas as regiões.
+- **2029**: Estabelecer parcerias com revendedores e lojas físicas para ampliar os pontos de venda.
 
-Design: Template personalizado no Canva, com elementos gráficos e imagens de alta qualidade que representam os produtos de forma fiel.
+## Contato
+- **Instagram**: [@laisciprianoartes](https://www.instagram.com/laisciprianoartes)
+- **Facebook**: [Laís Cipriano | Artes & Presentes](https://www.facebook.com/laisciprianoartes)
+- **Email**: ciprilais@gmail.com
 
-Formas de pagamento: Pix e dinheiro físico.
-
-Redes sociais integradas: Links diretos para Instagram e Facebook, permitindo que os visitantes possam explorar ainda mais os produtos e acompanhar atualizações em tempo real.
-
-
-# Funcionalidades do Site
-
-Vitrine de Produtos: Apresentação visual clara e atraente dos produtos artesanais.
-
-Links para redes sociais: Conexão direta com as páginas do Instagram e Facebook para mais interações e atualizações.
-
-
-# Estrutura do Site
-
-O site é dividido em várias seções para facilitar a navegação:
-
-Página Inicial: Apresentação da marca e dos produtos principais.
-
-Sobre a Marca: Uma seção que detalha a história de Laís Cipriano e os valores por trás de seus produtos.
-
-Catálogo de Produtos: Exibição dos principais itens à venda, como pulseiras, buquês e cestas, com informações detalhadas de cada um.
-
-Contato: Informações para entrar em contato com a marca, como links para redes sociais e email.
-
-
-# Instruções de Contribuição
-
-Este site foi desenvolvido com foco na simplicidade e na funcionalidade. No entanto, caso deseje colaborar ou sugerir melhorias no site ou nas estratégias de marketing, entre em contato através das redes sociais ou pelo email.
-
-# Licenciamento e Créditos
-
-O conteúdo e o design do site são de propriedade de Laís Cipriano | Artes & Presentes. Todos os direitos reservados. As imagens utilizadas são licenciadas para uso no site e pertencem aos respectivos autores ou à marca.
-
-# Contato
-
-Instagram: @laisciprianoartes
-
-Facebook: Laís Cipriano | Artes & Presentes
-
-Email: ciprilais@gmail.com
 
